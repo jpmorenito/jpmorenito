@@ -47,7 +47,7 @@ I am a computer engineer, currently in my last year. I am expanding my knowledge
 <a href="https://www.linkedin.com/in/jacob-pino-moreno/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
 <a href="https://x.com/jpmorenito" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=14" />
 
-Credit: [Jacob Pino Moreno]
+Credit: [Jacob Pino Moreno](https://github.com/jpmorenito)
 
 Last edited on: 18/11/2025
 
