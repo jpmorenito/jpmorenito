@@ -15,10 +15,10 @@
 
 I am a computer engineer, currently in my last year. I am expanding my knowledge in cybersecurity through various courses and getting my self hands-on experience and mastering essential tools. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Basic Concepts of Cybersecurity adn Ethical Hacking
+  - Basic concepts of cybersecurity and ethical hacking
   - PHP basic concepts
   - CCNA certificate
-  - Some Hack The Box Courses
+  - Some hack the box courses
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading some books.
 - 📫 Reach out to me at: <a href="jacobpinomo@gmail.com">jacobpinomo@gmail.com</a>
