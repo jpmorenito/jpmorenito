@@ -21,6 +21,7 @@ I am a computer engineer, currently in my last year. I am expanding my knowledge
   - Some Hack The Box Courses
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading some books.
+- 📫 Reach out to me at: <a href="vjacobpinomoo@gmail.com">valenwerlecontacto@gmail.com</a>
 
 <div id="user-content-toc">
   <ul align="center">
