@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineer, currently in my last year. I am expanding my knowledge in cybersecurity through various courses and getting my self hands-on experience and mastering essential tools. I love to learn and build something new, productive, innovative and creative.
+I am a computer engineer, currently in my last year. I am expanding my knowledge in cybersecurity through various courses and getting myself hands-on experience and mastering essential tools. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Basic concepts of cybersecurity and ethical hacking
   - PHP basic concepts
