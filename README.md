@@ -22,6 +22,7 @@ I am a computer engineer, currently in my last year. I am expanding my knowledge
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading some books.
 - 📫 Reach out to me at: <a href="jacobpinomo@gmail.com">jacobpinomo@gmail.com</a>
+- 💼 Check out my portfolio: <a href="https://jpmorenito.github.io/portfolio/">jpmorenito.github.io/portfolio</a>
 
 <div id="user-content-toc">
   <ul align="center">
